@@ -7,38 +7,22 @@ Alan Mathison Turing a fost un informatician, matematician, logician, criptanali
 
 ### Familia
 
-Turing s-a născut în Paddington⁠d, Londra, în timp ce tatăl său, Julius Mathison Turing (1873–1947), era în permisie din postul său de la Indian Civil Service⁠(en) (ICS) de la Chhatrapur⁠(en), Provincia Bihar și Orissa⁠(en), din India Britanică. Tatăl lui Turing era fiul unui cleric dintr-o familie scoțiană de negustori care operau în Țările de Jos și aveau printre ei și un baronet. Mama lui Turing, soția lui Julius, era Ethel Sara (născută Stoney; 1881–1976), fiica lui Edward Waller Stoney, inginer-șef al Căilor Ferate din Madras⁠(en). Familia Stoney era o familie de vază în rândul protestanților anglo-irlandezi din comitatele Tipperary și Longford, iar Ethel însăși își petrecuse copilăria mai mult în comitatul Clare.
+Turing s-a născut în Paddington⁠d, Londra, în timp ce tatăl său, Julius Mathison Turing (1873–1947), era în permisie din postul său de la Indian Civil Service⁠ (ICS) de la Chhatrapur⁠, Provincia Bihar și Orissa⁠, din India Britanică. Tatăl lui Turing era fiul unui cleric dintr-o familie scoțiană de negustori care operau în Țările de Jos și aveau printre ei și un baronet. Mama lui Turing, soția lui Julius, era Ethel Sara (născută Stoney; 1881–1976), fiica lui Edward Waller Stoney, inginer-șef al Căilor Ferate din Madras⁠. Familia Stoney era o familie de vază în rândul protestanților anglo-irlandezi din comitatele Tipperary și Longford, iar Ethel însăși își petrecuse copilăria mai mult în comitatul Clare.
 
-Lucrul în ICS a adus familia în India Britanică, unde bunicul său fusese general în Armata Bengalului⁠(en). Atât Julius cât și Ethel doreau însă să-și crească copiii în Anglia, așa că s-au mutat în Maida Vale⁠(en), Londra, unde s-a născut Turing la 23 iunie 1912, așa cum înregistrează o plachetă comemorativă pusă pe peretele exterior al casei natale, care ulterior a devenit Hotelul Colonnade⁠. A avut un frate mai mare, John.
+Lucrul în ICS a adus familia în India Britanică, unde bunicul său fusese general în Armata Bengalului⁠. Atât Julius cât și Ethel doreau însă să-și crească copiii în Anglia, așa că s-au mutat în Maida Vale⁠, Londra, unde s-a născut Turing la 23 iunie 1912, așa cum înregistrează o plachetă comemorativă pusă pe peretele exterior al casei natale, care ulterior a devenit Hotelul Colonnade⁠. A avut un frate mai mare, John.
 
 Serviciul civil al tatălui său era încă în desfășurare în primii ani de viață ai lui Alan și, în copilăria sa, părinții lui Turing au călătorit între Hastings în Anglia și India, lăsând cei doi copii în grija familiei unui pensionar militar. La Hastings, Turing a trăit la Baston Lodge, Upper Maze Hill, St Leonards-on-Sea⁠(d), astăzi și ea marcată cu o plachetă comemorativă.
 
 Încă din fragedă copilărie, Turing a dat semne ale geniului care avea mai târziu să se manifeste ulterior. Părinții săi au cumpărat în 1927 o casă în Guildford, iar Turing venea acolo în vacanțele școlare. Și această clădire are o placă comemorativă 
 
-```markdown
-Syntax highlighted code block
+## Educație
 
-# Header 1
-## Header 2
-### Header 3
+La șase ani, părinții l-au înscris pe Turing la St Michael's, o școală de zi cu sediul la numărul 20 pe Charles Road, St Leonards-on-Sea⁠. Învățătoarea i-a recunoscut talentul de timpuriu, talent pe care îl vor remarca și alți profesori ai săi. În 1926, la 13 ani, a trecut la Sherborne School⁠, o școală independentă bine cunoscută din târgul Sherborne din Dorset. Prima zi a sa de școală a coincis cu greva generală din 1926⁠ din Regatul Unit, dar el era așa de hotărât să meargă încât a plecat neînsoțit cu bicicleta, parcurgând tot drumul de peste 100 km de la Southampton la Sherborne, oprind peste noapte la un han.
 
-- Bulleted
-- List
+Înclinația naturală a lui Turing către matematică și științe nu i-a adus respectul unora dintre profesorii săi de la Sherborne, a căror definiție a educației punea accent mai mult pe umanioare. Directorul său a scris părinților: „sper să nu cadă între două luntre. Dacă trebuie să rămână într-o școală publică, atunci trebuie să-și propună să devină educat. Dacă trebuie să fie doar un specialist în științe, atunci își pierde timpul într-o școală publică”. Cu toate acestea, Turing a continuat să dea dovadă de abilități remarcabile în domeniile care îi plăceau, rezolvând probleme avansate în 1927 fără a fi studiat nici măcar elemente de analiză matematică. În 1928, la 16 ani, Turing a întâlnit operele lui Albert Einstein; nu doar că le-a înțeles, ci a și extrapolat faptul că Einstein pune în discuție legile de mișcare ale lui Newton dintr-un text în care nu se exprima această idee explicit
 
-1. Numbered
-2. List
+După Sherborne, Turing a studiat la King's College, Cambridge⁠, de unde a dobândit mari onoruri în matematică.
 
-**Bold** and _Italic_ and `Code` text
+În 1928, matematicianul german David Hilbert atrăsese atenția asupra Entscheidungsproblem (problema deciziei). În lucrarea sa de referință „Despre numere calculabile, cu aplicații la problema deciziei”, Turing a reformulat rezultatele lui Kurt Gödel din 1931 asupra limitelor demonstrației și computației, înlocuit limbajul formal universal al lui Gödel, pe baze aritmetice, cu instrumentele ipotetice formale și simple ce aveau să fie denumite mașini Turing. El a demonstrat că o astfel de mașină va fi capabilă să efectueze orice calcul matematic posibil dacă acesta este reprezentabil sub forma unui algoritm. El a demonstrat mai departe și că nu există o soluție la problema deciziei, arătând mai întâi că problema opririi pentru mașini Turing este nedecidabilă: în general, nu se poate decide algoritmic dacă o mașină Turing se va opri sau nu vreodată. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blackwhite007y/Alan-Turing-istorie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
