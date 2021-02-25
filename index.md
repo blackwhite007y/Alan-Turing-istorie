@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Informati generale
 
-You can use the [editor on GitHub](https://github.com/blackwhite007y/Alan-Turing-istorie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Alan Mathison Turing a fost un informatician, matematician, logician, criptanalist, filosof și maratonist britanic. A fost o personalitate deosebit de influentă în dezvoltarea informaticii, aducând o formalizare a conceptelor de „algoritm” și „computație” cu mașina Turing, care poate fi considerată un model de calculator generic. Turing este considerat a fi părintele informaticii și inteligenței artificiale teoretice.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Începutul vieții și educația 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Familia
+
+Turing s-a născut în Paddington⁠d, Londra, în timp ce tatăl său, Julius Mathison Turing (1873–1947), era în permisie din postul său de la Indian Civil Service⁠(en) (ICS) de la Chhatrapur⁠(en), Provincia Bihar și Orissa⁠(en), din India Britanică. Tatăl lui Turing era fiul unui cleric dintr-o familie scoțiană de negustori care operau în Țările de Jos și aveau printre ei și un baronet. Mama lui Turing, soția lui Julius, era Ethel Sara (născută Stoney; 1881–1976), fiica lui Edward Waller Stoney, inginer-șef al Căilor Ferate din Madras⁠(en). Familia Stoney era o familie de vază în rândul protestanților anglo-irlandezi din comitatele Tipperary și Longford, iar Ethel însăși își petrecuse copilăria mai mult în comitatul Clare.
+
+Lucrul în ICS a adus familia în India Britanică, unde bunicul său fusese general în Armata Bengalului⁠(en). Atât Julius cât și Ethel doreau însă să-și crească copiii în Anglia, așa că s-au mutat în Maida Vale⁠(en), Londra, unde s-a născut Turing la 23 iunie 1912, așa cum înregistrează o plachetă comemorativă pusă pe peretele exterior al casei natale, care ulterior a devenit Hotelul Colonnade⁠. A avut un frate mai mare, John.
+
+Serviciul civil al tatălui său era încă în desfășurare în primii ani de viață ai lui Alan și, în copilăria sa, părinții lui Turing au călătorit între Hastings în Anglia și India, lăsând cei doi copii în grija familiei unui pensionar militar. La Hastings, Turing a trăit la Baston Lodge, Upper Maze Hill, St Leonards-on-Sea⁠(d), astăzi și ea marcată cu o plachetă comemorativă.
+
+Încă din fragedă copilărie, Turing a dat semne ale geniului care avea mai târziu să se manifeste ulterior. Părinții săi au cumpărat în 1927 o casă în Guildford, iar Turing venea acolo în vacanțele școlare. Și această clădire are o placă comemorativă 
 
 ```markdown
 Syntax highlighted code block
